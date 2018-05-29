@@ -12,6 +12,8 @@ and open the template in the editor.
     <body>
         <?php
             echo "PHP_practice git";
+            echo "PHP_practice git";
+
         ?>
     </body>
 </html>
