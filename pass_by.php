@@ -67,7 +67,7 @@
 //
 //                    
 //                     echo "<h3>Pass By Ref :- Ref String</h3>";
-//                    $str="Hello";
+//                    $str="Heddllo";
 //                    RefStr($str).'';
 //                    echo $str;
 //                    
