@@ -28,7 +28,7 @@
    function marks(&$number){
       $m=&$number;                 
      if($m>=35){
-       return "Pass With Marks".$m;
+       return "Pass With Marks ".$m;
      }
      if($m>30 && $m<35){
          $m = $m+5;
