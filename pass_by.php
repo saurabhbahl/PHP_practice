@@ -77,11 +77,7 @@
                    echo marks($number);
                        
                    //}
-
-                }  
-                
-                   
-                
+                }    
             ?>
         <form action="">
             <input type="number" name="number" />
