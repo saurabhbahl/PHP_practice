@@ -1,5 +1,5 @@
 <?php
 
-    $students = array(1=>'Deepaghk',2=>'Akshay');
+    $students = array(1=>'Deepaddghk',2=>'Akshcay');
     
 ?>
