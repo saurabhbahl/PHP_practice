@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "PHP_practice fgit";
+            echo "PHP_pradddddddddctice fgit";
             echo "PHP_practice git";
 
         ?>
